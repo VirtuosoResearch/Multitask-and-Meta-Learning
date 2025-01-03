@@ -1,11 +1,11 @@
 
-## Multitask Learning and Fine-Tuning
+## Multitask learning reference repositories
 
 ### Surveys
 
 - Vandenhende, S., Georgoulis, S., Van Gansbeke, W., Proesmans, M., Dai, D., & Van Gool, L. (2021). Multi-task learning for dense prediction tasks: A survey.T-PAMI. [paper](https://arxiv.org/abs/2004.13379) 
 - Zhang, Y., & Yang, Q. (2021). A survey on multi-task learning. IEEE transactions on knowledge and data engineering. 
-- Jiang et al. (2022). Transferability in deep learning: A survey. arXiv. 
+- Jiang et al. (2022). Transferability in deep learning: A survey.
 
 ### Multitask Learning Basics
 
@@ -14,7 +14,8 @@
 - Duong et al. (2015). Low resource dependency parsing: Cross-lingual parameter sharing in a neural network parser. In *ACL*. 
 - Yang, Y., & Hospedales, T. (2016). Deep multi-task representation learning: A tensor factorisation approach. *ICLR.* [Paper](https://arxiv.org/abs/1605.06391)
 - GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding. ICLR 2019. [paper](https://arxiv.org/pdf/1804.07461)
-- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arVix 2018. [paper](https://arxiv.org/pdf/1810.04805.pdf)
+- SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems. NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv 2018. [paper](https://arxiv.org/pdf/1810.04805.pdf)
 - Multi-task Sequence to Sequence Learning. ICLR 2016. [paper](https://arxiv.org/pdf/1511.06114)
 - The natural language decathlon: Multitask learning as question answering.  arXiv 2019. [paper](https://arxiv.org/pdf/1806.08730)
 - Understanding and Improving Information Transfer in Multi-Task Learning. ICLR 2020. [paper](https://openreview.net/pdf?id=SylzhkBtDB)
