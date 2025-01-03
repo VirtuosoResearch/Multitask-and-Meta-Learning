@@ -3,6 +3,7 @@
 
 ### Surveys
 
+- Vandenhende, S., Georgoulis, S., Van Gansbeke, W., Proesmans, M., Dai, D., & Van Gool, L. (2021). Multi-task learning for dense prediction tasks: A survey.T-PAMI. [paper](https://arxiv.org/abs/2004.13379) 
 - Zhang, Y., & Yang, Q. (2021). A survey on multi-task learning. IEEE transactions on knowledge and data engineering. 
 - Jiang et al. (2022). Transferability in deep learning: A survey. arXiv. 
 
@@ -52,10 +53,12 @@ Task affinity
 **Mixture-of-Experts**
 
 - Ma et al. (2018). Modeling task relationships in multi-task learning with multi-gate mixture-of-experts. In *KDD*. [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
+- Hazimeh, H., Zhao, Z., Chowdhery, A., Sathiamoorthy, M., Chen, Y., Mazumder, R., ... & Chi, E. (2021). Dselect-k: Differentiable selection in the mixture of experts with applications to multi-task learning. *NeurIPS*. [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/f5ac21cd0ef1b88e9848571aeb53551a-Paper.pdf)
 
 **Branching**
 
 - Guo et al. (2020). Learning to branch for multi-task learning. In *ICML*. [paper](https://arxiv.org/abs/2006.01895)
+- Lu et al. (2017). Fully-adaptive feature sharing in multi-task networks with applications in person attribute classification. In *CVPR*. [paper](https://arxiv.org/abs/1611.05377)
 - Huang, et al. (2018). Gnas: A greedy neural architecture search method for multi-attribute learning. In *ACM MM*. 
 - Ruder et al. (2019). Latent multi-task architecture learning. In *AAAI*. 
 
