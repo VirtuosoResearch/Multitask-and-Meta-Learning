@@ -3,6 +3,7 @@
 
 ### Surveys
 
+- Kouw, W. M., & Loog, M. (2018). An introduction to domain adaptation and transfer learning. *arXiv*. [paper](https://arxiv.org/abs/1812.11806)
 - Vandenhende, S., Georgoulis, S., Van Gansbeke, W., Proesmans, M., Dai, D., & Van Gool, L. (2021). Multi-task learning for dense prediction tasks: A survey.T-PAMI. [paper](https://arxiv.org/abs/2004.13379) 
 - Zhang, Y., & Yang, Q. (2021). A survey on multi-task learning. IEEE transactions on knowledge and data engineering. 
 - Jiang et al. (2022). Transferability in deep learning: A survey.
