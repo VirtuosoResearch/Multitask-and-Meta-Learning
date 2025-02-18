@@ -7,6 +7,7 @@
 - Vandenhende, S., Georgoulis, S., Van Gansbeke, W., Proesmans, M., Dai, D., & Van Gool, L. (2021). Multi-task learning for dense prediction tasks: A survey.T-PAMI. [paper](https://arxiv.org/abs/2004.13379) 
 - Zhang, Y., & Yang, Q. (2021). A survey on multi-task learning. IEEE transactions on knowledge and data engineering. 
 - Jiang et al. (2022). Transferability in deep learning: A survey.
+- Lin, B., & Zhang, Y. (2022). LibMTL: A python library for multi-task learning. JMLR. [paper](https://arxiv.org/abs/2203.14338)
 
 ### Multitask Learning Basics
 
